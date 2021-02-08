@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.1)
+  - InputBarAccessoryView (5.2.3):
+    - InputBarAccessoryView/Core (= 5.2.3)
+  - InputBarAccessoryView/Core (5.2.3)
+  - MessageKit (3.5.0):
+    - InputBarAccessoryView (~> 5.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - MessageKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - InputBarAccessoryView
+    - MessageKit
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  InputBarAccessoryView: f814a0317d47687fafc6bac9e4df6015eaf5b764
+  MessageKit: fb539583599cd914e8e2d41fe7bdceb4bf686565
+
+PODFILE CHECKSUM: ce84506bc9cd1ab8795612b31cabde5c131fcd06
+
+COCOAPODS: 1.10.1
